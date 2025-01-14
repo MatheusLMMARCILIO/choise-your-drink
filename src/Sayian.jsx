@@ -5,7 +5,7 @@ import { useState } from "react";
 import './Sayian.css';
 
 function Sayian() {
-  const star = 'src/assets/stars.webp';
+  const star = 'public/IMAGES/stars.webp';
 
   const flavourChoice = [
     { id: '1', span: 'PEACH', IMG: 'public/IMAGES/peach_flavour.webp', color: '#f98a03', soda: 'public/IMAGES/dragon__.webp' },
