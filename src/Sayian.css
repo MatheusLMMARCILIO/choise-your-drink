@@ -83,7 +83,7 @@
 }
 
 .flavour__img {
-    background-image: url(public/IMAGES/bgc__image.svg);
+    background-image: url('public/IMAGES/bgc__image.svg');
     width: 50%;
     height: 100vh;
     background-position: center;
